@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://img.freepik.com/fotos-gratis/podio-de-marmore-branco-sobre-fundo-natural-para-exibicao-de-produtos-e-espaco-vazio-suficiente-para-renderizacao-de-ilustracao-3d-de-texto-e-conteudo_1258-108623.jpg?w=1380&t=st=1669837200~exp=1669837800~hmac=ce28280157288874c756e5311b2cf837d782362498ff8081a1898fc929b41a00");
+
+}
+
+.cabeçalho {
+padding-top: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:  rgb(53, 173, 243);
+}
+
+
+.hr-2 {
+    padding: 50px;
+}
+
+.container {
+    padding: 50px;
+}
+
+.modal-dialog {
+    padding: 24px;
+}
+
+.tr {
+    color: aliceblue;
+}
